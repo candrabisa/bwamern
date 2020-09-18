@@ -1,0 +1,13 @@
+{
+    "duration": "2",
+    "price": "248",
+    "bookingDateStart": "new Date()",
+    "bookingDateEnd": "new Date()",
+    "firstName": "Angga",
+    "lastName": "Risky",
+    "emailAddress": "angga@gmail.com",
+    "phoneNumber": "09876421213",
+    "accountHolder": "Angga Risky",
+    "bankFrom": "BCA",
+    "proofPayment": "fileData()"
+}

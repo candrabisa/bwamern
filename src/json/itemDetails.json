@@ -1,0 +1,42 @@
+{
+    "asd12sa32dsa":{
+        "_id": "asd12sa32dsa",
+        "name": "Village Angga",
+        "type": "Hotel",
+        "imageUrls": [
+            {
+                "_id":"asd12sa32dsa",
+                "url":"/images/itemDetails1.png"
+            },
+            {
+                "_id":"asd12sa32dsa",
+                "url":"/images/itemDetails2.png"
+            },
+            {
+                "_id":"asd12sa32dsa",
+                "url":"/images/itemDetails3.png"
+            }
+        ],
+        "country": "Indonesia",
+        "city": "Bogor",
+        "price": "52",
+        "unit": "night",
+        "isPopular": true,
+        "hasBackyard":true,
+        "description": "<p>owdiawnduaiwndmawidmwandjkasdkamsdmaskldmjnasdjkndasnasjdnasjdmadmasmdkamdoimawidmawkimdawimdimas</p>",
+        "features": [
+            {
+                "_id": "asd12sa32dsa",
+                "qty": "3",
+                "name": "bedroom",
+                "imageUrl":"/images/ic_bedroom.svg"
+            },
+            {
+                "_id": "asd12sa32dsa",
+                "qty": "1",
+                "name": "living room",
+                "imageUrl":"/images/ic_livingroom.svg"
+            }
+        ]
+    }
+}
